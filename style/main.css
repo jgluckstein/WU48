@@ -387,7 +387,7 @@ hr {
   .tile .tile-inner {
     border-radius: 3px;
     background: #eee4da;
-    text-align: left;
+    text-align: bottom;
     font-weight: bold;
     z-index: 10;
     font-size: 25px; }
